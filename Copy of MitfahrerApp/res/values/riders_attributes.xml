@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="RiderEntryLayout">
+        <attr name="ridersName" format="string" />
+        <attr name="rides" format="string" />
+        <attr name="price" format="string" />
+    </declare-styleable>
+</resources>

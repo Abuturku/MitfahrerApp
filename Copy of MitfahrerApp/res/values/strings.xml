@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MitfahrerApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnAddRider">Mitfahrer hinzufügen</string>
+    <string name="prompt_label">Bitte den Namen eingeben</string>
+    <string name="rider1">Fahrer</string>
+    <string name="rides">Fahrten</string>
+    <string name="price">Zu zahlen</string>
+    <string name="addRide">+</string>
+    <string name="removeRides">-</string>
+    <string name="priceRider1">2.50 €</string>
+    <string name="ridesRiderDefault">1</string>
+    <string name="deleteRider">x</string>
+
+</resources>
